@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Greeting Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+
+<p th:text="'Hello, ' + ${name} + ' ! '"></p>
+
+<p><strong>Türkçe:</strong> Spring Boot projem başarıyla çalışıyor! Bu sayfa, controller’dan gönderilen verilerin nasıl işlendiğini ve Thymeleaf ile dinamik olarak görüntülendiğini gösteren basit bir örnektir. Web uygulamalarının temel mantığını anlamak için harika bir başlangıçtır.</p>
+
+<p><strong>English:</strong> My Spring Boot project is running successfully! This page is a simple example showing how data sent from the controller is processed and displayed dynamically using Thymeleaf. It is a great starting point for understanding the basics of web application development.</p>
+
+<p><strong>Polski:</strong> Mój projekt Spring Boot działa pomyślnie! Ta strona jest prostym przykładem pokazującym, jak dane wysyłane z kontrolera są przetwarzane i dynamicznie wyświetlane za pomocą Thymeleaf. To świetny punkt wyjścia do zrozumienia podstaw tworzenia aplikacji webowych.</p>
+
+
+<img th:src="@{/images/wp10650479.jpg}" width="500" height="500"/>
+
+
+</body>
+</html>
