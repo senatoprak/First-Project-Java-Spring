@@ -1,5 +1,5 @@
-Java Spring For University (Task 1)
-This project is a web application created as part of the "Spring Framework Apps" course at Vistula University.
+Java Spring Project For University (Task 1)
+ This project is a web application created as part of the "Spring Framework Apps" course at Vistula University.
 It demonstrates the basics of Spring Boot, Spring MVC, and the Thymeleaf template engine.
 
 📋 Requirements & Features:
@@ -17,7 +17,7 @@ The application exposes a /greeting endpoint that accepts a name parameter and r
 The screenshot below shows the application running on localhost:8080, displaying the dynamic greeting text and the image.
 
 <img width="1278" height="599" alt="Screenshot 2026-04-24 221125" src="https://github.com/user-attachments/assets/ba7effac-752a-4cc9-a085-11742e591f09" />
-<img width="988" height="567" alt="Screenshot 2026-04-24 221109" src="https://github.com/user-attachments/assets/f9d094fd-26d8-4b42-8381-23157ebd0e54" />
+<img width="859" height="745" alt="Screenshot 2026-04-24 225223" src="https://github.com/user-attachments/assets/d5576ed5-4645-467d-bc4b-c9410e7c5169" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-24 221016" src="https://github.com/user-attachments/assets/55c92786-5fa6-4501-b6ac-9249181ab456" />
 
 
