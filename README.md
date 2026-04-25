@@ -28,9 +28,15 @@ The screenshot below shows the application running on localhost:8080, displaying
 * Maven
 
 ▶️ How to Run:
+
 1-Clone the repository
+
 2-Run the application (IntelliJ or mvn spring-boot:run)
+
 3-Open in browser:
+
 http://localhost:8080/
+
 http://localhost:8080/hello
+
 http://localhost:8080/greeting?name=Sena
